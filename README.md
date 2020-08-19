@@ -41,4 +41,4 @@ Download the zip folder & unzip the folder downloaded
 ```
 pip install -r requirements.txt
 ```
-5) Open the jupyter notebook and run the file 'notebook.ipynb'
+5) Open the jupyter notebook and run the file `notebook.ipynb`
